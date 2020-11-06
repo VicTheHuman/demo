@@ -1,5 +1,11 @@
 {
-  "id": 1,
-  "name": "Victor",
-  "title": "ReactJS"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
