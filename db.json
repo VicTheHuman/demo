@@ -1,4 +1,5 @@
-[
+{
+    "cursos": [
     {
         "id": 1,
         "titulo": "React desde cero",
@@ -27,4 +28,5 @@
         "price": 10,
         "profesor": "Alvaro Felipe"
     }
-]
+    ]
+}
